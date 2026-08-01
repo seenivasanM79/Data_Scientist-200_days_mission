@@ -1,0 +1,97 @@
+The New 200-Day Roadmap
+🟢 Phase 1 (Days 1–30)
+
+Goal: Build an unshakable programming foundation.
+
+Complete:
+
+✅ Python fundamentals
+✅ Functions
+✅ Lists
+✅ Dictionaries
+✅ File handling
+🔜 OOP
+🔜 Exception handling
+🔜 Modules
+🔜 CSV processing
+
+Simultaneously:
+
+Excel (30 min/day)
+🟡 Phase 2 (Days 31–70)
+
+Goal: Become a Data Analyst.
+
+Learn:
+
+Pandas
+NumPy
+Data Cleaning
+Data Visualization
+Statistics
+Exploratory Data Analysis (EDA)
+
+Projects:
+
+Titanic
+Netflix
+Sales
+Employee Analysis
+🟠 Phase 3 (Days 71–110)
+
+Goal: SQL + Power BI
+
+SQL:
+
+SELECT
+WHERE
+GROUP BY
+JOIN
+Window Functions
+
+Power BI:
+
+Power Query
+DAX
+Dashboards
+KPI reports
+
+Projects:
+
+HR Dashboard
+Sales Dashboard
+Financial Dashboard
+🔴 Phase 4 (Days 111–160)
+
+Goal: Machine Learning
+
+Learn:
+
+Regression
+Classification
+Clustering
+Feature Engineering
+Model Evaluation
+
+Projects:
+
+House Price Prediction
+Customer Churn
+Loan Approval
+Iris
+Wine Quality
+🟣 Phase 5 (Days 161–200)
+
+Goal: Placement Preparation
+
+Daily:
+
+SQL Interview
+Python Interview
+Statistics Interview
+ML Interview
+Resume
+GitHub
+LinkedIn
+Aptitude
+Mock Interviews
