@@ -68,4 +68,4 @@ ORDER BY Spending DESC LIMIT 3;
 
 SELECT Name, Spending FROM Customers
 where City = "Mumbai"
-Order by Spending Limit 2;
+Order by Spending DESC Limit 2;
